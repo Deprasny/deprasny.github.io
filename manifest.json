@@ -1,0 +1,21 @@
+{
+    "name": "Tokopedia",
+    "short_name": "Tokped",
+    "description": "Online Shop",
+    "lang": "en-US",
+    "dir": "ltr",
+    "theme_color": "#414f57",
+    "start_url": ".",
+    "background_color": "#000",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "icons": [{
+      "src": "https://seller.tokopedia.com/edu/wp-content/themes/tkpd-seller/src/images/op/op-toped-illustration-top.png",
+      "sizes": "72x72",
+      "type": "image/png"
+     }, {
+      "src": "https://seller.tokopedia.com/edu/wp-content/themes/tkpd-seller/src/images/op/op-toped-illustration-top.png",
+      "sizes": "512x512",
+      "type": "image/png"
+     }]
+   }
